@@ -5,7 +5,7 @@ import { FETCH_FOXES, UPDATE_FOXES, SET_ERROR } from '../actions';
 //make initial state
 
 const initialState = {
-    fexes: {},
+    foxes: {},
     isFetchingData: false,
     error: ''
 };
