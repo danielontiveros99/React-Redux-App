@@ -1,0 +1,5 @@
+
+Dependencies Needed:
+Axios - for the axios call
+react-redux - because it was stated it needs to be this type in the Read Me
+redux-thunk for middleware
